@@ -18,7 +18,7 @@
 <a href="https://codepen.io/andyg2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="andyg2" height="30" width="40" /></a>
 <a href="https://twitter.com/74gee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="74gee" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/74gee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="74gee" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/andyg2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="andyg2" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/andy-gee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="andyg2" height="30" width="40" /></a>
 <a href="https://fb.com/74gee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="74gee" height="30" width="40" /></a>
 </p>
 
