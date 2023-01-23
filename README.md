@@ -11,9 +11,7 @@
 
 - 🌱 I’m currently learning **Vite, Svelte, Expo, Playwright**
 
-- 👨‍💻 All of my projects are available at [Github - many are private](Github - many are private)
-
-- 💬 Ask me about **PHP, Clickhouse DB, Prototyping**
+- 💬 Ask me about **PHP, Clickhouse DB, Prototyping, Performance, Data flow**
 
 - 📫 How to reach me **andy@dgte.pro**
 
