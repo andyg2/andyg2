@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andy Gee</h1>
 <h3 align="center">A passionate full stack developer from the UK</h3>
 
-<p align="left">
-  <a href="https://twitter.com/74gee" target="blank">
-    <img src="https://img.shields.io/twitter/follow/74gee?logo=twitter&style=for-the-badge" alt="74gee" />
-  </a>
-</p>
-
 - 🔭 I’m currently working on **VAS, POS, Blackbox**
 
 - 🌱 I’m currently learning **Vite, Svelte, Expo, Playwright**
