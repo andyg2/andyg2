@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andy Gee</h1>
 <h3 align="center">A passionate full stack developer from the UK</h3>
 
-- 🔭 I’m currently working on **VAS, POS, Blackbox**
+- 🔭 I’m currently working on **POS, YOLO, Blackbox**
 
 - 🌱 I’m currently learning **Vite, Svelte, Expo, Playwright**
 
