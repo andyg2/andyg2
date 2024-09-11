@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **POS, YOLO, Blackbox**
 
-- 🌱 I’m currently learning **Vite, Svelte, Expo, Playwright**
-
 - 💬 Ask me about **PHP, Clickhouse DB, Prototyping, Performance, Data flow**
 
 - 📫 How to reach me **andy@dgte.pro**
