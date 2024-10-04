@@ -38,12 +38,12 @@
   ![https://www.retailrisk.com/the-fraud-awards-2/](https://www.retailrisk.com/the-fraud-awards-2/)
   
 - **Top 100 PHP Developers Worldwide 2024 (90th) n=16,500**  
-  *Coder's Rank*
+  *Coder's Rank 2024*
   ![https://profile.codersrank.io/leaderboard/developer?page=2&perpage=50&technology=PHP](https://profile.codersrank.io/leaderboard/developer?page=2&perpage=50&technology=PHP)
 
 - **Most Hospitable Online Parenting Community 2024**  
   *Baby Whisperer Forums*  
-  *Parent & Baby Awards 2024*
+  *Lux Life Parent & Baby Awards 2024*
   ![https://lux-life.digital/winners/baby-whisperer-forums/](https://lux-life.digital/winners/baby-whisperer-forums/)
 
 ### 🏆 GitHub Trophies
