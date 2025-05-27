@@ -43,14 +43,14 @@ This Award is for the supplier of in-store surveillance solutions that the judge
   *Retail Risk Awards 2024*
   <https://www.retailrisk.com/award/the-fraud-awards/>
   
-- **Top 100 PHP Developers Worldwide 2024 (90th) n=16,500**  
-  *Coder's Rank 2024*
-  <https://profile.codersrank.io/leaderboard/developer?page=2&perpage=50&technology=PHP>
+- **Top 100 PHP Developers Worldwide 2024 (18th) n=19,630**  
+  *Coder's Rank 2024, 2025*
+  <https://profile.codersrank.io/leaderboard/developer?page=1&perpage=50&technology=PHP>
 
 - **Most Hospitable Online Parenting Community 2024**  
   *Baby Whisperer Forums*  
   *Lux Life Parent & Baby Awards 2024*
-  <https://lux-life.digital/winners/baby-whisperer-forums/](https://lux-life.digital/winners/baby-whisperer-forums>
+  <https://lux-life.digital/winners/baby-whisperer-forums>
 
 ### 🏆 GitHub Trophies
 <https://github-profile-trophy.vercel.app/?username=andyg2&theme=radical&no-frame=false&no-bg=true&margin-w=4>
