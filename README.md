@@ -53,7 +53,7 @@ This Award is for the supplier of in-store surveillance solutions that the judge
   <https://lux-life.digital/winners/baby-whisperer-forums>
 
 ### 🏆 GitHub Trophies
-<https://github-profile-trophy.vercel.app/?username=andyg2&theme=radical&no-frame=false&no-bg=true&margin-w=4>
+![](https://github-profile-trophy.vercel.app/?username=andyg2&theme=radical&no-frame=false&no-bg=true&margin-w=4)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
