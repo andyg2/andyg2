@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **PHP, Clickhouse DB, Prototyping, Performance, Data flow**
 
-- 📫 How to reach me **andy@dgte.pro**
+- 📫 How to reach me **<andy@dgte.pro>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,11 +26,11 @@
   </a>
 </p>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=andyg2&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=andyg2&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andyg2&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
 THE RETAIL RISK INNOVATIVE IN-STORE SURVEILLANCE SOLUTION AWARD
 
@@ -38,13 +38,14 @@ This Award is for the supplier of in-store surveillance solutions that the judge
 2024 results
 
 ## 🏆 Awards & Recognitions
+
 - **Retail Risk Innovative In-store Surveillance Solution Award**  
   *VAS 'One Box Retail CCTV Solution'*  
   *Retail Risk Awards 2024*
   <https://www.retailrisk.com/award/the-fraud-awards/>
   
-- **Top 50 PHP Developers Worldwide 2024 (29th), 2025 (27th), 2026 (20th) n=17,100**
-  *Coder's Rank 2024, 2025, 2026*
+- **Top 50 PHP Developers Worldwide 2024 (29th), 2025 (27th), 2026 (20th) n=17,100**  
+  *Coder's Rank 2024, 2025, 2026*  
   <https://profile.codersrank.io/leaderboard/developer?page=1&perpage=50&technology=PHP>
 
 - **Most Hospitable Online Parenting Community 2024**  
@@ -53,6 +54,7 @@ This Award is for the supplier of in-store surveillance solutions that the judge
   <https://lux-life.digital/winners/baby-whisperer-forums>
 
 ### 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=andyg2&theme=radical&no-frame=false&no-bg=true&margin-w=4)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -192,4 +194,3 @@ This Award is for the supplier of in-store surveillance solutions that the judge
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
 </p>
-
