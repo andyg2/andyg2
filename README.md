@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andy Gee</h1>
 <h3 align="center">A passionate full stack developer from the UK</h3>
 
-- 🔭 I’m currently working on **POS, YOLO, Blackbox**
+- 🔭 I'm currently working on **POS, YOLO, Blackbox**
 
 - 💬 Ask me about **PHP, Clickhouse DB, Prototyping, Performance, Data flow**
 
@@ -43,8 +43,8 @@ This Award is for the supplier of in-store surveillance solutions that the judge
   *Retail Risk Awards 2024*
   <https://www.retailrisk.com/award/the-fraud-awards/>
   
-- **Top 100 PHP Developers Worldwide 2024 (18th) n=19,630**  
-  *Coder's Rank 2024, 2025*
+- **Top 50 PHP Developers Worldwide 2024 (29th), 2025 (27th), 2026 (20th) n=17,100**
+  *Coder's Rank 2024, 2025, 2026*
   <https://profile.codersrank.io/leaderboard/developer?page=1&perpage=50&technology=PHP>
 
 - **Most Hospitable Online Parenting Community 2024**  
