@@ -10,7 +10,6 @@ Freelance developer since the mid-90s. Emigrated from the UK to a small island i
 - 🧪 Honest about AI tools: genuinely useful for coding, but I watch closely for silent logic errors and the gap between "appears to work" and "actually understood."
 - 📫 Reach me at **<andy@dgte.pro>**
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/74gee) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rehit.it) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/74gee) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@74gee) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Andy-Gee-3) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/CupcakeSecure4094) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/499131) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/74gee) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/74gee) 
 
@@ -19,6 +18,7 @@ Freelance developer since the mid-90s. Emigrated from the UK to a small island i
 
 
 # 📊 GitHub Stats:
+[![trophy](https://github-profile-trophy.vercel.app/?username=andyg2&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)<br/>
 ![](https://github-readme-stats.shion.dev/api?username=andyg2&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=andyg2&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=andyg2&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -44,7 +44,7 @@ This Award is for the supplier of in-store surveillance solutions that the judge
   *Lux Life Parent & Baby Awards 2024*
   <https://lux-life.digital/winners/baby-whisperer-forums>
 
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/74gee) 
+## 💰 You can help me by bringing me interesting work.
+
 
   
